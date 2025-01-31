@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-merah: #ef233c;
+  --color-merah-hover: #540b0e;
+  --color-kaki: #2b2d42;
+  --color-gradient-1: #b92b27;
+  --color-gradient-2: #1565c0;
+}
